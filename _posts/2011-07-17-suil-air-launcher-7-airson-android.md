@@ -3,6 +3,7 @@ layout: post
 title: Sùil air Launcher 7 airson Android
 date: 2011-07-17 12:45:58
 categories: [Applaidean]
+image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/launcher-7.png
 ---
 
 Ma tha sibh air fàs sgìth dhen còltas oifigeil a th’ aig Android, tha  an t-uabhas de Home Replacement apps ri fhaoitinn sa Mhargadh airson a  atharrachadh.
