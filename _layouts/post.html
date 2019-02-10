@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="row">
+    <div class="col-10 offset-1">
+      <div class="post">
+        <h3 class="post-title">{{ page.title }}</h3>
+        <span class="post-date text-muted">
+          {{ page.date | date: "%Y-%m-%d" }}
+        </span>
+        <span class="post-category text-muted"><i class="fa fa-tag"></i>
+          {% for category in page.categories %}
+            <a class="post-category-link" href="{{ site.baseurl }}/category/{{ category }}">
+              #{{ category }}
+            </a>
+          {% endfor %}
+        </span>
+        {% if page.image %}
+          <img src="{{ site.baseurl }}{{ page.image }}" class="post-image"><br>
+        {% endif %}
+
+        {{ content }}
+      </div>
+
+      <div class="related">
+        {% unless page.categories == null %}
+      	  {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
+      	  {% unless site.categories[pageCategory].size == 1 %}
+            <h2>Co-cheangailte</h2>
+            <ul class="related-posts">
+              {% for post in site.categories[pageCategory] limit:6 %}
+                {% unless post.title == page.title %}
+                	<li class="related-post">
+      	           	<h4>
+      		            <a class="related-post" href="{{ site.baseurl }}{{ post.url }}">
+      		              {{ post.title }}
+      		              <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+      		            </a>
+      	           	</h4>
+      	          </li>
+                {% endunless %}
+              {% endfor %}
+      	    </ul>
+      	  {% endunless %}
+      	{% endunless %}
+      </div>
+    </div>
+  </div>
+</div>

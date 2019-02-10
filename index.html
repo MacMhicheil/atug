@@ -1,0 +1,29 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+---
+
+<div class="container">
+    {% for post in site.posts %}
+  <div class="row">
+    <div class="col-3">
+      <a href="{{ post.url }}"><img src="{{ post.image }}" class="post-image index-image"></a>
+    </div>
+    <div class="col-9">
+      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+      {% if post.author %}
+      <p class="text-muted">{{ post.date | date: "%Y-%m-%d" }} le <a href="{{ post.author_url }}">{{ post.author }}</a></p>
+
+      {% else %}
+
+      <p class="text-muted">{{ post.date | date: "%Y-%m-%d" }} le <a href="#">Crìstean MacMhìcheil</a></p>
+
+      {% endif %}
+      {{ post.excerpt }}
+    </div>
+  </div>
+  <hr/>
+    {% endfor %}
+</div>
