@@ -9,7 +9,7 @@ layout: default
     {% for post in site.posts %}
   <div class="row">
     <div class="col-3">
-      <a href="{{ post.url }}"><img src="{{ post.image }}" class="post-image index-image"></a>
+      <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="post-image index-image"></a>
     </div>
     <div class="col-9">
       <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
