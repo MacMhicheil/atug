@@ -42,6 +42,5 @@ plugins:
 # Sets the color of the header and page links
 featured-color: "#556b2f"
 
-featured-image:
 # Separator to mark end of post excerpt
 excerpt_separator: <!--more-->
