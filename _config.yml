@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jekyll Theme
-email: your-email@example.com
-description: A Bootstrapped Jekyll Theme
+title: An t-Ubhal-ghort
+email: chris@macmhicheil.uk
+description: A' toirt thugaibh na naidheachdan teicneòlais as ùire le fòcas àraidh air teicneòlas Apple
 baseurl: "/atug" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
