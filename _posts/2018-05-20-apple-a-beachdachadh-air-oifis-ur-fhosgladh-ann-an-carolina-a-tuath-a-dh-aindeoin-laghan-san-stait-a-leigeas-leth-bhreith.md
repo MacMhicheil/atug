@@ -5,7 +5,7 @@ date: 2018-05-20 16:17:35
 categories: [Apple, LCDTQ]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
-image: /images/Apple_Pride.jpg
+image: {{ site.baseurl }}/images/Apple_Pride.jpg
 ---
 
 Tha dithis oifigearan riaghaltais à Carolina a Tuath air a ràdh gu  bheil Apple a’ beachdachadh air oifis corporra mòr fhosgladh anns an  stàit – a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh  coimhearsnachd LCDTE na stàite.
