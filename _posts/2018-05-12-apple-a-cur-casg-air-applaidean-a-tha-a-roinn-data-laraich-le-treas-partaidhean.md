@@ -3,7 +3,7 @@ layout: post
 title: Apple a’ cur casg air applaidean a tha a’ roinn dàta làraich le treas pàrtaidhean
 date: 2018-05-12 11:59:13
 categories: [Apple, Applaidean]
-image: https://raw.githubusercontent.com/MacMhicheil/Jekyll-Bootstrap-Theme/master/images/Mapaichean.png
+image: {{ site.baseurl }}/images/Mapaichean.png
 ---
 
 A-rèir còltas tha Apple a’ sguabadh applaidean às an App Store aca ma  tha iad a’ roinn dàta làraich le treas pàrtaidhean gun cead sòilleir  bho luchd-cleachdaidh.
