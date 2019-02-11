@@ -6,7 +6,7 @@ permalink: /mu-dheidhinn/
 
 A' toirt thugaibh na naidheachdan teicneòlais as ùire le fòcas àraidh air teicneòlas Apple.
 
-### Mu Dheidhinn Crìstean MacMhìcheil
+##### Mu Dheidhinn Crìstean MacMhìcheil
 
 ‘S ann à Inbhir Pheofharain a tha mi o thùs agus tha mi air a bhith a’ fuireach ann an Sìorrachd Rois cha mhòr fad mo bheatha.
 
@@ -18,7 +18,7 @@ Ann an 2007 chruthaich mi AbairThusa a bha na chiad lìon-sòisealta do Ghàidhe
 
 Tha mi nam glasraichear-cruaidh (vegan).
 
-### Cuir Fios
+##### Cuir Fios
 
 Twitter: [@GeidhUK](https://www.twitter.com/GeidhUK)
 
