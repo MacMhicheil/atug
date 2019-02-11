@@ -2,7 +2,7 @@
 layout: post
 title: Seachdamh beta de iOS 9.3 ri fhaoitinn
 date: 2016-03-15 05:44:15
-categories: [Apple]
+categories: [apple]
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/iOS_Devices.png
 ---
 
