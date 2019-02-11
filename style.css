@@ -48,6 +48,7 @@ html {
 
 a{
   color: {{ site.featured-color }};
+  /* Enable wrapping of long urls */
   white-space: pre;           /* CSS 2.0 */
   white-space: pre-wrap;      /* CSS 2.1 */
   white-space: pre-line;      /* CSS 3.0 */
