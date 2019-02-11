@@ -2,7 +2,7 @@
 layout: post
 title: iTunes ri fhaoitinn ann an Stòr Microsoft mu dheireadh thall
 date: 2018-04-30 10:28:11
-category: [Apple, Microsoft]
+category: [apple, microsoft]
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/iTunes_Microsoft_Store.png
 ---
 
