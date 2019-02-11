@@ -2,7 +2,7 @@
 layout: post
 title: Tachartas Apple 21mh Mhàrt
 date: 2016-03-14 05:47:21
-categories: [Apple]
+categories: [apple]
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/Apple_Event_March_21st.jpeg
 ---
 
