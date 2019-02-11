@@ -63,16 +63,14 @@ a{
   margin-bottom 15px;
 }
 
-.footer{
-    background-color: {{ site.featured-color }};
-    color: #fff;
+.footer {
+    background-color: \{\{ site.featured-color \}\};
+    color: #ffffff;
     text-align: center;
     width: 100%;
+    margin-top: 100px;
     height: 60px;
     padding: 5px 0px;
-    position: relative;
-margin-top: -60px; /* negative value of footer height */
-clear:both;
 }
 
 .footer a {
