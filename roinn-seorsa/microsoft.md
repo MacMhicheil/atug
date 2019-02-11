@@ -9,11 +9,11 @@ permalink: /roinn-seorsa/microsoft/
   <p>{{ page.content }}</p>
 {% endunless %}
 
-{% unless site.categories[page.category].size > 0 %}
+{% unless site.categories[page.roinn-seorsa].size > 0 %}
   <p>There is no article in this category.</p>
 {% endunless %}
 
-{% for post in site.categories[page.category] %}
+{% for post in site.categories[page.roinn-seorsa] %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            
