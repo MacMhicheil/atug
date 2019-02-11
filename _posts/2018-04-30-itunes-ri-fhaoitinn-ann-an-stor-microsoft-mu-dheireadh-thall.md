@@ -16,4 +16,4 @@ Tha an tionndadh ùr seo a’ cleachdadh teicneòlas Centennial Microsoft – d�
 
 Tha seo a’ ciallachadh nach bi e air ùrachadh leis an stàlaichear Apple ach leis an Stòr fhèin. Tha e cuideachd a’ ciallachadh nach tèid seirbheisean eile a leithid Apple Software Updater agus iCloud a stàlladh sa chùlaibh o chionn ’s nach eil Centennial apps ceadaichte air sin a dhèanamh.
 
-Faodar a luchdachadh a-nuas bho <https://www.microsoft.com/store/productId/9PB2MZ1ZMB1S>
+Faodar a luchdachadh a-nuas [bhon seo](https://www.microsoft.com/store/productId/9PB2MZ1ZMB1S).
