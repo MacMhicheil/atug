@@ -4,9 +4,6 @@ title: Microsoft
 category: microsoft
 permalink: /roinn-seorsa/microsoft/
 ---
----
-layout: page
----
 
 {% unless page.content == '' %}
   <p>{{ page.content }}</p>
