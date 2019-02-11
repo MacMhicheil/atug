@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Lorg
+permalink: /lorg/
 ---
 
 Tòisich a' sgrìobhadh anns a' bhogsa gu h-ìosal airson lorg sna puist.
 
 <!-- Html Elements for Search -->
-<div id="search-container">
-<input type="text" id="search-input" placeholder="search...">
+<div class="form-group" id="search-container">
+<input class="form-control" type="text" id="search-input" placeholder="Lorg sna puist...">
 <ul id="results-container"></ul>
 </div>
 
