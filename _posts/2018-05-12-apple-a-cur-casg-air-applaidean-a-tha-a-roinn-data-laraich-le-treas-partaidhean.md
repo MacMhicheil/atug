@@ -2,7 +2,7 @@
 layout: post
 title: Apple a’ cur casg air applaidean a tha a’ roinn dàta làraich le treas pàrtaidhean
 date: 2018-05-12 11:59:13
-categories: [Apple, Applaidean]
+categories: [apple, applaidean]
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/Mapaichean.png
 ---
 
