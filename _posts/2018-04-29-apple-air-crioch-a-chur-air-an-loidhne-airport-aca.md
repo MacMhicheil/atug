@@ -2,7 +2,7 @@
 layout: post
 title: Apple air crìoch a chur air an loidhne AirPort aca
 date: 2018-04-29 18:41:28
-categories: [Apple]
+categories: [apple]
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/apple-airport.jpg
 ---
 
