@@ -2,7 +2,7 @@
 layout: post
 title: Apple a’ beachdachadh air oifis ùr fhosgladh ann an Carolina a Tuath a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh daoine LCDTE
 date: 2018-05-20 16:17:35
-categories: [Apple, LCDTQ]
+categories: [apple, lcdtq]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/Apple_Pride.jpg
