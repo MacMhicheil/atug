@@ -64,7 +64,7 @@ a{
 }
 
 .footer {
-    background-color: \{\{ site.featured-color \}\};
+    background-color: {{ site.featured-color }};
     color: #ffffff;
     text-align: center;
     width: 100%;
