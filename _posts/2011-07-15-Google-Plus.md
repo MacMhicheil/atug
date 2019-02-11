@@ -2,7 +2,7 @@
 layout: post
 title: Google+
 date: 2011-07-15 12:40:46
-categories: [Google, Eadar-lion]
+categories: [google, eadar-lion]
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/google-plus-logo.png
 ---
 
