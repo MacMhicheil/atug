@@ -1,5 +1,5 @@
 ---
-
+layout: page
 ---
 
 <!-- Html Elements for Search -->
