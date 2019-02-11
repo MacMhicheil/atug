@@ -20,22 +20,22 @@ macOS 10.9 agus nas ùire:
 
 System Preferences » Language & Region » + » Tagh Gàidhlig ’s dèan cinnteach gu bheil i aig mullach na liosta
 
+Nuair a tha thu air sin a dhèanamh bidh am mìosachan, an ceann-latha agus cuid a phrògraman treas-phàrtaidh a’ nochdadh na Gàidhlig.
+
 Mar seo:
 
 (‘S ann à macOS 10.13.4 a tha na dealbhan gu h-ìosal).
 
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0157.png){: .post-image }
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 1](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0157.png){: .post-image }
 
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0158.png){: .post-image }
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 2](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0158.png){: .post-image }
 
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0159.png){: .post-image }
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 3](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0159.png){: .post-image }
 
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0160.png){: .post-image }
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 4](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0160.png){: .post-image }
 
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0161.png){: .post-image }
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 5](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0161.png){: .post-image }
 
-Nuair a tha thu air sin a dhèanamh bidh am mìosachan, an ceann-latha agus cuid a phrògraman treas-phàrtaidh a’ nochdadh na Gàidhlig.
+![Calendar macOS anns a' Ghàidhlig](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0162.png){: .post-image }
 
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0162.png){: .post-image }
-
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0163.png){: .post-image }
+![Cluicheadair VLC anns a' Ghàidhlig](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0163.png){: .post-image }
