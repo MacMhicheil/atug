@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Lorg
 ---
 
-Lorg sna puist
+Tòisich a' sgrìobhadh anns a' bhogsa gu h-ìosal airson lorg sna puist.
 
 <!-- Html Elements for Search -->
 <div id="search-container">
