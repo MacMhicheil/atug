@@ -24,18 +24,18 @@ Mar seo:
 
 (‘S ann à macOS 10.13.4 a tha na dealbhan gu h-ìosal).
 
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0157.png)
+![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0157.png){: .post-image }
 
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0155.png)
+![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0158.png){: .post-image }
 
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0159.png)
+![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0159.png){: .post-image }
 
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0160.png)
+![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0160.png){: .post-image }
 
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0161.png)
+![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0161.png){: .post-image }
 
 Nuair a tha thu air sin a dhèanamh bidh am mìosachan, an ceann-latha agus cuid a phrògraman treas-phàrtaidh a’ nochdadh na Gàidhlig.
 
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0162.png)
+![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0162.png){: .post-image }
 
-![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0163.png)
+![](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0163.png){: .post-image }
