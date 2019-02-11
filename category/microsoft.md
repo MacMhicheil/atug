@@ -1,0 +1,33 @@
+---
+layout: page
+title: Microsoft
+category: microsoft
+permalink: /roinn-seorsa/microsoft/
+---
+
+{% unless page.content == '' %}
+  <p>{{ page.content }}</p>
+{% endunless %}
+
+{% unless site.categories[page.category].size > 0 %}
+  <p>There is no article in this category.</p>
+{% endunless %}
+
+{% for post in site.categories[page.category] %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            
+            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta">
+      {{ post.date | date: "%Y-%m-%d" }}
+    </p>
+</div>
+<hr>
+{% endfor %}
