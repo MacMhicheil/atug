@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Mu dheidhinn
 permalink: /mu-dheidhinn/
 ---
