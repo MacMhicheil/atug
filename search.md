@@ -8,7 +8,7 @@ Tòisich a' sgrìobhadh anns a' bhogsa gu h-ìosal airson lorg sna puist.
 
 <!-- Html Elements for Search -->
 <div class="form-group" id="search-container">
-<input class="form-control" type="text" id="search-input" placeholder="Lorg sna puist...">
+<input class="form-control" type="text" id="search-input" placeholder="Lorg sna puist..."><br />
 <ul id="results-container"></ul>
 </div>
 
