@@ -4,8 +4,6 @@ title: Tasglann
 permalink: /tasglann/
 ---
 
-<div class="list-group">
-
 {% for post in site.posts %}
 	{% assign currentDate = post.date | date: "%Y" %}
 	{% if currentDate != myDate %}
@@ -16,5 +14,3 @@ permalink: /tasglann/
 		<span>{{ post.date | date: "%Y-%m-%d" }}</span> &nbsp; &nbsp; {{ post.title }}
 	</a>
 {% endfor %}
-
-</div>
