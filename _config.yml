@@ -18,7 +18,7 @@ email: chris@macmhicheil.uk
 description: A' toirt thugaibh na naidheachdan teicneòlais as ùire le fòcas àraidh air teicneòlas Apple
 baseurl: "/atug" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-permalink: :year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 
 
 # Build settings
