@@ -71,6 +71,9 @@ a{
     margin-top: 100px;
     height: 60px;
     padding: 5px 0px;
+    position: relative;
+margin-top: -60px; /* negative value of footer height */
+clear:both;
 }
 
 .footer a {
