@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Mu dheidhinn
 permalink: /mu-dheidhinn/
 ---
-
-Mu Dheidhinn An t-Ubhal-ghort
 
 Ri thighinn…
 
