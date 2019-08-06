@@ -4,6 +4,7 @@ title: Suidheachadh na Gàidhlig mar locale ann an iOS
 date: 2018-05-07 11:34:27
 categories: [gaidhlig, apple]
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/iOS_Devices.png
+comments: true
 ---
 
 Coltach ri macOS chan eil cùs Gàidhlig a’ nochdadh ann an iOS.
