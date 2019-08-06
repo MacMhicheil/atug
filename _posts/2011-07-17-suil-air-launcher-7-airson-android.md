@@ -2,7 +2,7 @@
 layout: post
 title: Sùil air Launcher 7 airson Android
 date: 2011-07-17 12:45:58
-categories: [applaidean]
+categories: [google, applaidean]
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/launcher-7.png
 ---
 
