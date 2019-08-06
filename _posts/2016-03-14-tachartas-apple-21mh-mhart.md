@@ -4,6 +4,7 @@ title: Tachartas Apple 21mh Mhàrt
 date: 2016-03-14 05:47:21
 categories: [apple]
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/Apple_Event_March_21st.jpeg
+comments: true
 ---
 
 Tha [Apple](http://www.apple.com/) air cuiridhean a chur a-mach airson tachartas a bhios iad a’ cumail 21mh Mhàrt aig an àrainn aca ann an Cupertino.
