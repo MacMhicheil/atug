@@ -4,6 +4,7 @@ title: Apple Music na chiad seirbheis-ciùil le còirichean airson ath-mheasgach
 date: 2016-03-15 05:40:41
 categories: [apple]
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/Apple_Music.png
+comments: true
 ---
 
 Tha [Apple](http://www.apple.com/uk) air aontachadh le [Dubset Media Holdings](http://www.dubset.com/) gum faod iad òrain measgte agus measgachaidhean DJ a chur ris an seirbheis-ciùil aca, Apple Music.
