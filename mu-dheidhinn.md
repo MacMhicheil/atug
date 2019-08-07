@@ -48,7 +48,7 @@ I am a vegan.
 
 ##### Contact Me
 
-Twitter (Geidh.uk): [@GeidhUK](https://www.twitter.com/GeidhUK)
+Twitter (Geidh.uk): [@AtUGUK](https://www.twitter.com/AtUGUK)
 
 Twitter (Personal): [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
 
