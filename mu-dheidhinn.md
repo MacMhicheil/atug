@@ -27,3 +27,29 @@ Twitter: [@AtUGUK](https://www.twitter.com/AtUGUK)
 Twitter Chrìstein: [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
 
 Post-d: [chris@macmhicheil.uk](mailto:chris@macmhicheil.uk)
+
+### About
+
+Bringing you the latest tech news, with a particular focus on Apple tech.
+
+##### About Chris Mitchell
+
+My name is Chris Mitchell. I am the coder and editor of the LGBTQ+ news blog Geidh.uk.
+
+I started learning Gaelic when I was a pupil at Dingwall Academy. In 2005/6 I completed a CertHE in Cùrsa Comais at Inverness College. Between 2006 and 2010 I was a student at Sabhal Mòr Ostaig in Skye where I completed a BA (Hons) in Gaelic and Development. As part of this course, I took modules in computing and journalism.
+
+When I was a student at SMO, I wasn’t aware of many LGBTQ+ Gaelic speakers, so I created the Bebo group GayGaels where we could meet each other. This eventually led to me creating Geidh.uk (originally called Naidheachdan Pinc), a Gaelic language LGBTQ+ news blog.
+
+In 2007 I created AbairThusa, which was the first ever Gaelic medium social network.
+
+I am originally from Dingwall and had lived in Ross-shire for most of my life.
+
+I am a vegan.
+
+##### Contact Me
+
+Twitter (Geidh.uk): [@GeidhUK](https://www.twitter.com/GeidhUK)
+
+Twitter (Personal): [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
+
+Email: [chris@macmhicheil.uk](mailto:chris@macmhicheil.uk)
