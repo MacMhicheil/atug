@@ -6,9 +6,7 @@ permalink: /cuir-fios/
 
 'S e Twitter no Instagram an dòigh as fheàrr airson brath a chur thugainn. 'S urrainn dhuibh ar lorg aig na ceanglaichean gu h-ìosal.
 
-Twitter: [@GeidhUK](https://www.twitter.com/GeidhUK)
-
-Instagram: [@GeidhUK](https://www.instagram.com/GeidhUK)
+Twitter: [@AtUGUK](https://www.twitter.com/AUGUK)
 
 Twitter Chrìstein: [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
 
