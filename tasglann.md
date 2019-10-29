@@ -13,10 +13,10 @@ permalink: /tasglann/
 		{% assign myDate = currentDate %}
 	{% endif %}
 	<a class="list-group-item list-group-item-action" href="{{ site.baseurl }}{{ post.url }}">
-	<div class="col-4">
+	<div class="col-3">
 		<span>{{ post.date | date: "%Y-%m-%d" }}</span> &nbsp; &nbsp;
 		</div>
-		<div class="col-8">
+		<div class="col-6">
 		{{ post.title }}
 		</div>
 	</a>
