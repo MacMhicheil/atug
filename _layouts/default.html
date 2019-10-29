@@ -98,6 +98,13 @@
     </nav>
 
   <body>
+    <!-- Dark Mode JavaScript -->
+    <script>
+      const theme = localStorage.getItem('theme');
+      if (theme === "dark") {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    </script>
     <div class="page-content">
           {{ content }}
     </div>
@@ -113,6 +120,36 @@
       </p>
       <p><i class="fa fa-code"></i> le <i class="fa fa-heart"></i> le <a href="https://github.com/GeidhUK/GeidhUK.github.io/" title="Stòr Github Chrìstein MhicMhìcheil | Chris Mitchell's Github Repository">Crìstean MacMhìcheil</a></p>
     </div>
+    <!-- User Theme Preference -->
+    <script>
+        const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');
 
+        if (theme === "dark") {
+        	document.getElementById("theme-toggle").innerHTML = "Cuir air na solais";
+        } else if (theme === "light") {
+        	document.getElementById("theme-toggle").innerHTML = "Cuir dheth na solais";
+        } else if  (userPrefers === "dark") {
+        	document.documentElement.setAttribute('data-theme', 'dark');
+        	window.localStorage.setItem('theme', 'dark');
+        	document.getElementById("theme-toggle").innerHTML = "Cuir air na solais";
+        } else {
+        	document.documentElement.setAttribute('data-theme', 'light');
+        	window.localStorage.setItem('theme', 'light');
+        	document.getElementById("theme-toggle").innerHTML = "Cuir dheth na solais";
+        }
+
+        function modeSwitcher() {
+        	let currentMode = document.documentElement.getAttribute('data-theme');
+        	if (currentMode === "dark") {
+        		document.documentElement.setAttribute('data-theme', 'light');
+        		window.localStorage.setItem('theme', 'light');
+        		document.getElementById("theme-toggle").innerHTML = "Cuir dheth na solais";
+        	} else {
+        		document.documentElement.setAttribute('data-theme', 'dark');
+        		window.localStorage.setItem('theme', 'dark');
+        		document.getElementById("theme-toggle").innerHTML = "Cuir air na solais";
+        	}
+        }
+    </script>
   </body>
 </html>
