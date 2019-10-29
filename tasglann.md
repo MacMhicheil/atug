@@ -12,8 +12,13 @@ permalink: /tasglann/
 		<h2 class="archive-page-date">{{ currentDate }}</h2>
 		{% assign myDate = currentDate %}
 	{% endif %}
+	<div class="col-4">
 	<a class="list-group-item list-group-item-action" href="{{ site.baseurl }}{{ post.url }}">
-		<span>{{ post.date | date: "%Y-%m-%d" }}</span> &nbsp; &nbsp; {{ post.title }}
+		<span>{{ post.date | date: "%Y-%m-%d" }}</span> &nbsp; &nbsp;
+		</div>
+		<div class="col-8>"
+		{{ post.title }}
+		</div>
 	</a>
 {% endfor %}
 
