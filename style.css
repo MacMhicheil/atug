@@ -90,10 +90,6 @@ hr {
 	background-color: {{ site.featured-color }};
 }
 
-a{
-  color: {{ site.featured-color }};
-}
-
 .page-content{
   margin-top: 25px;
 }
