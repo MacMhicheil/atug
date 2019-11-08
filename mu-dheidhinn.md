@@ -6,7 +6,7 @@ permalink: /mu-dheidhinn/
 
 Bidh an t-Ubhal-ghort a' toirt thugaibh na naidheachdan teicneòlais as ùire le fòcas àraidh air teicneòlas Apple.
 
-##### Mu Dheidhinn Crìstean MacMhìcheil
+#### Mu Dheidhinn Crìstean MacMhìcheil
 
 Is mise Crìstean MacMhìcheil. Tha mi nam chòdaiche agus nam dheasaiche am blog naidheachd LCDTQ+ Gèidh.uk.
 
@@ -20,19 +20,19 @@ Ann an 2007 chruthaich mi AbairThusa a bha na chiad lìon-sòisealta do Ghàidhe
 
 ‘S e bhìgean (glasraichear-cruaidh) a th’ annam.
 
-##### Cuir Fios
+### Lean sinn
 
-Twitter: [@AtUGUK](https://www.twitter.com/AtUGUK)
+{% include divider.html %}
 
-Twitter Chrìstein: [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
+### Cuir post-d thugainn
 
-Post-d: [chris@macmhicheil.uk](mailto:chris@macmhicheil.uk)
+'S e Twitter no Instagram an dòigh as fheàrr airson brath a chur thugainn ach mura h-eil thu airson an cleachdadh, 's urrainn dhut post-d a chur thugainn le bhith a' lìonadh [an fhoirm seo]({{ site.baseurl }}/cuir-fios).
 
 ### About
 
 Bringing you the latest tech news, with a particular focus on Apple tech.
 
-##### About Chris Mitchell
+### About Chris Mitchell
 
 My name is Chris Mitchell. I am the coder and editor of the LGBTQ+ news blog Geidh.uk.
 
@@ -46,10 +46,10 @@ I am originally from Dingwall and had lived in Ross-shire for most of my life.
 
 I am a vegan.
 
-##### Contact Me
+### Follow us
 
-Twitter (Geidh.uk): [@AtUGUK](https://www.twitter.com/AtUGUK)
+{% include divider.html %}
 
-Twitter (Personal): [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
+### Contact us
 
-Email: [chris@macmhicheil.uk](mailto:chris@macmhicheil.uk)
+Twitter or Instagram are the best ways to get in touch, but if you prefer you can send us an email by completing [an fhoirm seo]({{ site.baseurl }}/cuir-fios).
