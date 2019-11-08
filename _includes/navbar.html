@@ -1,0 +1,56 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-light" style="background-color: {{ site.featured-color }}!important">
+  <a href="{{ site.baseurl }}/"><img class="brand-image" src="{{ site.baseurl }}/images/header.png" width="250px"></a>
+  <!--<a class="navbar-brand" href="#">Navbar</a>-->
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav navbar-center">
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/"><i class="fas fa-home"></i></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/eadar-lion">An t-Eadar-lìon</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/applaidean">Applaidean</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/apple">Apple</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/gaidhlig">Gàidhlig</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/google">Google</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/lcdtq">LCDTQ</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/microsoft">Microsoft</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Fios
+      </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/blog">Blog</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}/mu-dheidhinn">Mu Dheidhinn</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}/cuir-fios" title="">Cuir Fios</a>
+        </div>
+      </li>
+    <li class="nav-item">
+      <a class="nav-link" href="{{ site.baseurl }}/lorg"><i class="fas fa-search"></i></a>
+    </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <i class="fas fa-cog"></i>
+      </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+        <a class="dropdown-item" id="theme-toggle" onclick="modeSwitcher()" href="#"></a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</nav>
