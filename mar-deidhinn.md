@@ -52,4 +52,4 @@ I am a vegan.
 
 ### Contact us
 
-Twitter or Instagram are the best ways to get in touch, but if you prefer you can send us an email by completing [an fhoirm seo]({{ site.baseurl }}/cuir-fios).
+Twitter or Instagram are the best ways to get in touch, but if you prefer you can send us an email by completing [this form]({{ site.baseurl }}/cuir-fios).
