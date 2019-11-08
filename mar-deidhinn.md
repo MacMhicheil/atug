@@ -27,29 +27,3 @@ Ann an 2007 chruthaich mi AbairThusa a bha na chiad lìon-sòisealta do Ghàidhe
 ### Cuir post-d thugainn
 
 'S e Twitter no Instagram an dòigh as fheàrr airson brath a chur thugainn ach mura h-eil thu airson an cleachdadh, 's urrainn dhut post-d a chur thugainn le bhith a' lìonadh [an fhoirm seo]({{ site.baseurl }}/cuir-fios).
-
-### About
-
-Bringing you the latest tech news, with a particular focus on Apple tech.
-
-### About Chris Mitchell
-
-My name is Chris Mitchell. I am the coder and editor of the LGBTQ+ news blog Geidh.uk.
-
-I started learning Gaelic when I was a pupil at Dingwall Academy. In 2005/6 I completed a CertHE in Cùrsa Comais at Inverness College. Between 2006 and 2010 I was a student at Sabhal Mòr Ostaig in Skye where I completed a BA (Hons) in Gaelic and Development. As part of this course, I took modules in computing and journalism.
-
-When I was a student at SMO, I wasn’t aware of many LGBTQ+ Gaelic speakers, so I created the Bebo group GayGaels where we could meet each other. This eventually led to me creating Geidh.uk (originally called Naidheachdan Pinc), a Gaelic language LGBTQ+ news blog.
-
-In 2007 I created AbairThusa, which was the first ever Gaelic medium social network.
-
-I am originally from Dingwall and had lived in Ross-shire for most of my life.
-
-I am a vegan.
-
-### Follow us
-
-{% include divider.html %}
-
-### Contact us
-
-Twitter or Instagram are the best ways to get in touch, but if you prefer you can send us an email by completing [this form]({{ site.baseurl }}/cuir-fios).
