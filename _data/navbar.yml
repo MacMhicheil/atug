@@ -1,32 +1,43 @@
 - title: <i class="fas fa-home"></i>
   url: /
+  description:
 
 - title: Applaidean
   url: /roinn-seorsa/applaidean
+  description:
 
 - title: Apple
   url: /roinn-seorsa/apple
+  description:
 
 - title: Eadar-lìon
   url: /roinn-seorsa/eadar-lion
+  description: 
 
 - title: Gàidhlig
   url: /roinn-seorsa/gaidhlig
+  description:
 
 - title: Google
   url: /roinn-seorsa/google
+  description:
 
 - title: LCDTQE+
   url: /roinn-seorsa/lcdtqe
+  description:
 
 - title: Microsoft
   url: /roinn-seorsa/microsoft
+  description:
 
 - title: Blog
   url: /roinn-seorsa/blog
+  description:
 
 - title: Mar Deidhinn
   url: /mar-deidhinn
+  description:
 
 - title: Lorg
   url: /lorg
+  description:
