@@ -16,17 +16,17 @@
     const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');
 
     if (theme === "dark") {
-      document.getElementById("theme-toggle").innerHTML = "Cuir air na solais";
+      document.getElementById("theme-toggle").innerHTML = "&#9681";
     } else if (theme === "light") {
-      document.getElementById("theme-toggle").innerHTML = "Cuir dheth na solais";
+      document.getElementById("theme-toggle").innerHTML = "&#9680;";
     } else if  (userPrefers === "dark") {
       document.documentElement.setAttribute('data-theme', 'dark');
       window.localStorage.setItem('theme', 'dark');
-      document.getElementById("theme-toggle").innerHTML = "Cuir air na solais";
+      document.getElementById("theme-toggle").innerHTML = "&#9681;";
     } else {
       document.documentElement.setAttribute('data-theme', 'light');
       window.localStorage.setItem('theme', 'light');
-      document.getElementById("theme-toggle").innerHTML = "Cuir dheth na solais";
+      document.getElementById("theme-toggle").innerHTML = "&#9680;";
     }
 
     function modeSwitcher() {
@@ -34,11 +34,11 @@
       if (currentMode === "dark") {
         document.documentElement.setAttribute('data-theme', 'light');
         window.localStorage.setItem('theme', 'light');
-        document.getElementById("theme-toggle").innerHTML = "Cuir dheth na solais";
+        document.getElementById("theme-toggle").innerHTML = "&#9680;";
       } else {
         document.documentElement.setAttribute('data-theme', 'dark');
         window.localStorage.setItem('theme', 'dark');
-        document.getElementById("theme-toggle").innerHTML = "Cuir air na solais";
+        document.getElementById("theme-toggle").innerHTML = "&#9681;";
       }
     }
 </script>
