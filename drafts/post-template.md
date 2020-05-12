@@ -1,6 +1,6 @@
 ---
 
-type: post
+layout: post
 
 date: 
 
