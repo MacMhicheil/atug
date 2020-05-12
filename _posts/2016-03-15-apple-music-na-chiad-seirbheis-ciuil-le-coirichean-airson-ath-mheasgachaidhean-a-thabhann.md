@@ -1,10 +1,26 @@
 ---
+
 layout: post
-title: Apple Music na chiad seirbheis-ciùil le còirichean airson ath-mheasgachaidhean a thabhann
+
 date: 2016-03-15 05:40:41
-categories: [apple]
-image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/Apple_Music.png
+
+title: Apple Music na chiad seirbheis-ciùil le còirichean airson ath-mheasgachaidhean a thabhann
+
+image: /images/2016-03-15-apple-music-na-chiad-seirbheis-ciuil-le-coirichean-airson-ath-mheasgachaidhean-a-thabhann.png
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
+categories:
+    - apple
+
+tags:
+
 ---
 
 Tha [Apple](http://www.apple.com/uk) air aontachadh le [Dubset Media Holdings](http://www.dubset.com/) gum faod iad òrain measgte agus measgachaidhean DJ a chur ris an seirbheis-ciùil aca, Apple Music.

@@ -1,10 +1,26 @@
 ---
+
 layout: post
-title: Apple air crìoch a chur air an loidhne AirPort aca
+
 date: 2018-04-29 18:41:28
-categories: [apple]
-image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/apple-airport.jpg
+
+title: Apple air crìoch a chur air an loidhne AirPort aca
+
+image: /images/2018-04-29-apple-air-crioch-a-chur-air-an-loidhne-airport-aca.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
+categories:
+    - apple
+
+tags:
+
 ---
 
 Tha Apple air crìoch oifigeil a chur air an loidhne AirPort aca, a tha a’ gabhail a-steach an AirPort Express, an AirPort Extreme agus an AirPort Time Capsule.

@@ -1,10 +1,26 @@
 ---
+
 layout: post
-title: Seachdamh beta de iOS 9.3 ri fhaoitinn
+
 date: 2016-03-15 05:44:15
-categories: [apple]
-image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/iOS_Devices.png
+
+title: Seachdamh beta de iOS 9.3 ri fhaoitinn
+
+image: /images/2016-03-15-seachdamh-beta-de-ios-9-3-ri-fhaoitinn.png
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
+categories:
+    - apple
+
+tags:
+
 ---
 
 Chaidh an seachdamh beta de [iOS 9.3](http://www.apple.com/ios/preview/) a’ sgaoileadh do luchd-leasachaidh le [Apple](http://www.apple.com/uk) Diluain.

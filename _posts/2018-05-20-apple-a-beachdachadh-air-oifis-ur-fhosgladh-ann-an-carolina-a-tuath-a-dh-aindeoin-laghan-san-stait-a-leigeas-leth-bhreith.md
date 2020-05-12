@@ -1,12 +1,27 @@
 ---
+
 layout: post
-title: Apple a’ beachdachadh air oifis ùr fhosgladh ann an Carolina a Tuath a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh daoine LCDTE
+
 date: 2018-05-20 16:17:35
-categories: [apple, lcdtq]
+
+title: Apple a’ beachdachadh air oifis ùr fhosgladh ann an Carolina a Tuath a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh daoine LCDTE
+
+image: /images/2018-05-20-apple-a-beachdachadh-air-oifis-ur-fhosgladh-ann-an-carolina-a-tuath-a-dh-aindeoin-laghan-san-stait-a-leigeas-leth-bhreith.jpg
+
+image-caption:
+
+image-licence:
+
 author: Crìstean MacMhìcheil
-author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/Apple_Pride.jpg
+
 comments: true
+
+categories:
+    - apple
+    - lcdtq
+
+tags:
+
 ---
 
 Tha dithis oifigearan riaghaltais à Carolina a Tuath air a ràdh gu  bheil Apple a’ beachdachadh air oifis corporra mòr fhosgladh anns an  stàit – a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh  coimhearsnachd LCDTE na stàite.

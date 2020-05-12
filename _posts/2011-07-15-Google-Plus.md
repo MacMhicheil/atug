@@ -1,10 +1,27 @@
 ---
-layout: post
-title: Google+
+
+type: post
+
 date: 2011-07-15 12:40:46
-categories: [google, eadar-lion]
-image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/google-plus-logo.png
+
+title: Google+
+
+image: /images/2011-07-15-Google-Plus.png
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
+categories:
+    - google
+    - eadar-lion
+    
+tags:
+
 ---
 
 ‘S e [Google+](https://web.archive.org/web/20160407223511/http://plus.google.com/)  an t-ainm a th’ air an t-sèirbheis ùr sòisealta a th’ aig Google. Tha  mi air a bhith ga chleachdadh fad na seachdain seo agus mar thà, tha mi  cinnteach nach bi mi a’ tadhal air [Facebook](https://web.archive.org/web/20160407223511/http://cristean-macmhicheil.co.uk/?offset=1346191195000) tuilleadh, ’s mi a’ beachdachadh air [Twitter](https://web.archive.org/web/20160407223511/http://cristean-macmhicheil.co.uk/?offset=1346191195000)  a thrèigsinn cuideachd. San fharsaingeachd, tha mi a’ smaointinn gu  bheil Google+ a’ toirt na comharran as fheàrr à Facebook a bharrachd air  na comharran eile (a leithid prìobhaideachd) leasachadh agus dèanamh  ann an dòigh nas ùire agus nas fhasa ri chleachdadh.

@@ -1,10 +1,21 @@
 ---
+
 layout: post
+
 title: iTunes ri fhaoitinn ann an Stòr Microsoft mu dheireadh thall
+
 date: 2018-04-30 10:28:11
-category: [apple, microsoft]
-image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/iTunes_Microsoft_Store.png
+
+image: /images/2018-04-30-itunes-ri-fhaoitinn-ann-an-stor-microsoft-mu-dheireadh-thall.png
+
 comments: true
+
+category:
+    - apple
+    - microsoft
+
+tags:
+
 ---
 
 Còrr is bliadhna as dèidh fios-naidheachd ga ainmeacadh tha iTunes ri fhaoitinn ann an Stòr Microsoft ann an Windows 10.
